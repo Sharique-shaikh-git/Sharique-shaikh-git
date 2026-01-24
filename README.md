@@ -57,8 +57,6 @@
 <div align="center">
   <!-- Hiding rank to look cleaner, using a sleek dark theme -->
   <img src="https://github-readme-stats.vercel.app/api?username=Sharique-shaikh-git&show_icons=true&theme=algolia&hide_border=true&hide_rank=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharique-shaikh-git&layout=compact&theme=algolia&hide_border=true&hide=html,css" alt="Top Languages" />
 </div>
 
 <br />
