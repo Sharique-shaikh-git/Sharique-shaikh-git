@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sharique Shaikh — AI and Full-Stack Engineer</title>
+  <desc id="desc">From an idea to software people use. Applied AI, full-stack products and business automation.</desc>
+  <rect width="1000" height="300" rx="16" fill="#172122"/>
+  <path d="M0 282H1000" stroke="#bfd5c5" stroke-width="2"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="44" y="49" font-size="12" letter-spacing="3" fill="#bfd5c5">ENGINEERING WITH PURPOSE</text>
+    <text x="42" y="113" font-size="48" font-weight="700" letter-spacing="-2" fill="#f4f1e9">Sharique Shaikh.</text>
+    <text x="44" y="150" font-size="21" fill="#bfd5c5">AI &amp; Full-Stack Engineer</text>
+    <text x="44" y="199" font-size="16" fill="#d4dcda">From an idea to software people use.</text>
+    <text x="44" y="247" font-size="11" letter-spacing="2" fill="#a0b4ac">APPLIED AI  /  PRODUCTS  /  AUTOMATION</text>
+  </g>
+  <g fill="none" stroke="#3b5250">
+    <rect x="749" y="51" width="202" height="202" rx="27"/>
+    <rect x="769" y="71" width="162" height="162" rx="20"/>
+    <path d="M699 101H769M931 203H981M850 21V71M850 233V275"/>
+  </g>
+  <g fill="#bfd5c5">
+    <circle cx="699" cy="101" r="4"/><circle cx="981" cy="203" r="4"/>
+    <circle cx="850" cy="21" r="4"/><circle cx="850" cy="275" r="4"/>
+    <text x="789" y="176" font-family="DejaVu Sans, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-5">SS</text>
+  </g>
+</svg>

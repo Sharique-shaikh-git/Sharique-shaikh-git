@@ -1,56 +1,73 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=3000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sharique;Polyglot+System+Architect;Building+High-Frequency+Systems;AI+%26+Mobile+Engineering" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Sharique Shaikh — AI and Full-Stack Engineer. From an idea to software people use." />
+</p>
 
-<div align="center">
-  <h3>⚡ Architecting the Future of Software</h3>
-  <p>
-    I am a <strong>Senior Polyglot Engineer</strong> specializing in complex, high-performance systems. 
-    While my public profile showcases web experiments, my core engineering work lies in <strong>proprietary high-frequency trading systems (Rust)</strong>, 
-    <strong>native mobile architecture (Android)</strong>, and <strong>scalable microservices (Go/C#)</strong>.
-  </p>
-  
-  <br />
-  
-  <a href="https://portfolio-eta-ten-68.vercel.app/">
-    <img src="https://img.shields.io/badge/🔴_VIEW_LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&border=1px_solid_white" alt="Live Portfolio" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://shariqueshaikh.vercel.app/"><strong>Portfolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://ss-services.vercel.app/"><strong>SS Services ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/shariqueshaikh125/"><strong>LinkedIn ↗</strong></a>
+</p>
 
-<br />
+<p align="center"><sub>Based in Pakistan · Remote collaboration · Open to engineering roles and client projects</sub></p>
 
-### ⚔️ The Full Arsenal
+---
 
-My expertise spans across the entire computing stack, from bare-metal systems to distributed cloud architecture.
+### Software that earns its place in a business.
 
-| **Domain** | **Technologies** |
+I'm **Sharique**, an **AI & Full-Stack Engineer** and the founder of **[SS Services](https://ss-services.vercel.app/)**. I build web applications, AI integrations, and automation that connect real business workflows—from booking a service to processing documents or executing a trading strategy.
+
+My work spans **React / Next.js, TypeScript, Python, and LLM APIs**. I take projects from requirements through implementation, testing, and deployment, with attention to the details that matter after launch: clear interfaces, reliable data, and maintainable code.
+
+### What I build
+
+| Focus | Work |
 | :--- | :--- |
-| **🚀 Systems & Performance** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
-| **🧠 AI & Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **📱 Mobile & Game Dev** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
-| **🌐 Full Stack Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **💾 Data & Infra** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Applied AI** | Document-based assistants, LLM integrations, AI agents, and automated content workflows |
+| **Full-stack products** | SaaS applications, booking systems, dashboards, APIs, and business tools |
+| **Business automation** | CRM integrations, WhatsApp workflows, connected services, and repetitive-task automation |
+| **Trading & mobile** | MT4/MT5 expert advisors, cTrader and NinjaTrader tools, and Android applications |
 
-<br />
+### Selected work
 
-### 🔒 Proprietary Engineering Highlights (Private)
+**[Sunday Shine ↗](https://sundayshine.lovable.app/)**  
+A car-detailing booking experience with service selection, an owner area, cancellation and rescheduling, and reminders. Built around the everyday needs of a solo business owner.
 
-Since much of my work is under NDA or in private enterprise repositories, here is a glimpse of what I build behind the scenes:
+**[PrivateEye ↗](https://github.com/Sharique-shaikh-git/PSE-Private_Search_Engine-)**  
+A self-hosted search setup built on SearXNG, with custom branding, Docker Compose, Caddy, Valkey, and optional Tor routing.
 
--   **High-Frequency MEV Bot (Rust/Solana)**: Developed a low-latency arbitrage bot executing sub-millisecond transactions.
--   **Enterprise Crypto Trading App (Android/Kotlin)**: Native mobile application for real-time asset tracking and execution.
--   **Distributed Signal Engine (Python/Go)**: A microservices architecture processing TBs of financial data streams.
+**CryptoPartner · Noor App**  
+Mobile projects spanning trading signals and Islamic daily tools. Source code is private; project details are available through my portfolio.
 
-<br />
+### Tools I work with
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharique-shaikh-git&show_icons=true&theme=algolia&hide_border=true&hide_rank=true" alt="GitHub Stats" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-202728?style=flat-square&amp;logo=typescript&amp;logoColor=BFD5C5" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-202728?style=flat-square&amp;logo=react&amp;logoColor=BFD5C5" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-202728?style=flat-square&amp;logo=nextdotjs&amp;logoColor=BFD5C5" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-202728?style=flat-square&amp;logo=nodedotjs&amp;logoColor=BFD5C5" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-202728?style=flat-square&amp;logo=python&amp;logoColor=BFD5C5" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-202728?style=flat-square&amp;logo=postgresql&amp;logoColor=BFD5C5" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-202728?style=flat-square&amp;logo=supabase&amp;logoColor=BFD5C5" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Kotlin-202728?style=flat-square&amp;logo=kotlin&amp;logoColor=BFD5C5" alt="Kotlin" />
+</p>
 
-<br />
+**AI & automation:** OpenAI · Claude · Gemini · n8n · faster-whisper · FFmpeg  
+**Specialist development:** MQL4 / MQL5 · C# / cTrader / NinjaTrader · Firebase
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sharique-shaikh-154331238/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+### GitHub, in numbers
+
+<p>
+  <img src="assets/github-stats.svg" width="100%" alt="Automatically generated public GitHub statistics and repository language distribution" />
+</p>
+
+<sub>Refreshed daily from GitHub's API. Public repositories only; languages reflect code bytes, not skill level. Private client and product work is outside these totals.</sub>
+
+---
+
+### Have a product to build or a workflow to simplify?
+
+I'm interested in **AI engineering and full-stack roles**, as well as client projects with a clear problem to solve.
+
+**[Explore my work →](https://shariqueshaikh.vercel.app/)** &nbsp; **[Discuss a project →](https://ss-services.vercel.app/)** &nbsp; **[Connect on LinkedIn →](https://www.linkedin.com/in/shariqueshaikh125/)**
