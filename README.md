@@ -1,73 +1,131 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Sharique Shaikh — AI and Full-Stack Engineer. From an idea to software people use." />
+  <img src="assets/header.svg" width="100%" alt="Sharique Shaikh — Software and AI Engineer. Web, mobile, AI, automation, and business systems." />
 </p>
 
 <p align="center">
-  <a href="https://shariqueshaikh.vercel.app/"><strong>Portfolio ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://ss-services.vercel.app/"><strong>SS Services ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/shariqueshaikh125/"><strong>LinkedIn ↗</strong></a>
+  <a href="https://shariqueshaikh.vercel.app/"><strong>EXPLORE MY WORK ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://ss-services.vercel.app/"><strong>SS SERVICES ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shariqueshaikh125/"><strong>LET'S CONNECT ↗</strong></a>
 </p>
 
-<p align="center"><sub>Based in Pakistan · Remote collaboration · Open to engineering roles and client projects</sub></p>
+<br />
 
----
+## One engineer. A full spectrum of software.
 
-### Software that earns its place in a business.
+I'm **Sharique Shaikh**, a **Software & AI Engineer** and the founder of **SS Services**, based in Pakistan.
 
-I'm **Sharique**, an **AI & Full-Stack Engineer** and the founder of **[SS Services](https://ss-services.vercel.app/)**. I build web applications, AI integrations, and automation that connect real business workflows—from booking a service to processing documents or executing a trading strategy.
+I turn ideas and business requirements into usable software: **web and mobile applications, SaaS products, AI-powered tools, automation, and custom business systems**. My work connects the product people use with the data, APIs, and workflows behind it.
 
-My work spans **React / Next.js, TypeScript, Python, and LLM APIs**. I take projects from requirements through implementation, testing, and deployment, with attention to the details that matter after launch: clear interfaces, reliable data, and maintainable code.
+I work across industries—not within a single niche. Whether the brief is a customer-facing app, an internal operations platform, or a connected business workflow, I bring the same focus: understand the problem, design the system, build it carefully, and support it after launch.
 
-### What I build
+<br />
 
-| Focus | Work |
+## What I can help you build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Web Applications</h3>
+      <p>SaaS platforms, customer portals, booking systems, dashboards, e-commerce experiences, and responsive business websites.</p>
+      <sub>React · Next.js · TypeScript · Node.js</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Mobile Applications</h3>
+      <p>Native Android and cross-platform applications, with connected APIs, authentication, notifications, and offline functionality where needed.</p>
+      <sub>Kotlin · Jetpack Compose · Flutter · Firebase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / AI &amp; Intelligent Tools</h3>
+      <p>AI agents, document-based assistants, LLM integrations, and tools that turn unstructured information into useful product features.</p>
+      <sub>Python · OpenAI · Claude · Gemini</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / Automation &amp; Integrations</h3>
+      <p>Business workflow automation, WhatsApp and CRM integrations, connected APIs, and tools that reduce repetitive operational work.</p>
+      <sub>Python · Node.js · n8n · APIs &amp; Webhooks</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 / Business Software</h3>
+      <p>Custom CRMs, ERP modules, admin platforms, inventory and order workflows, and internal tools shaped around how a business operates.</p>
+      <sub>PostgreSQL · Supabase · Role-Based Access</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 / Custom Engineering</h3>
+      <p>Purpose-built software, backend services, data tools, third-party integrations, and specialist systems when an off-the-shelf product isn't enough.</p>
+      <sub>TypeScript · Python · C# · SQL</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## A few things I've built
+
+### Sunday Shine — a service business, connected
+
+A car-detailing booking experience with service selection, an owner area, cancellation and rescheduling, and reminders. The focus: making the customer journey and the owner's daily workflow work together.
+
+**[Explore the live application ↗](https://sundayshine.lovable.app/)**
+
+### PrivateEye — self-hosted search infrastructure
+
+A custom-branded search setup built on SearXNG, with Docker Compose, Caddy, Valkey, and optional Tor routing. A project combining interface customization with self-hosted infrastructure.
+
+**[Explore the public repository ↗](https://github.com/Sharique-shaikh-git/PSE-Private_Search_Engine-)**
+
+### Mobile products — Noor App & CryptoPartner
+
+Mobile projects covering Islamic daily tools and trading signals, including prayer, Qibla, habits, and related utilities. These projects demonstrate another part of my work: mobile interfaces, application state, and connected features.
+
+**[More projects and engineering work ↗](https://shariqueshaikh.vercel.app/)**
+
+<sub>Some product and client repositories are private. Public GitHub activity represents only part of my work.</sub>
+
+<br />
+
+## My working toolkit
+
+| Layer | Technologies |
 | :--- | :--- |
-| **Applied AI** | Document-based assistants, LLM integrations, AI agents, and automated content workflows |
-| **Full-stack products** | SaaS applications, booking systems, dashboards, APIs, and business tools |
-| **Business automation** | CRM integrations, WhatsApp workflows, connected services, and repetitive-task automation |
-| **Trading & mobile** | MT4/MT5 expert advisors, cTrader and NinjaTrader tools, and Android applications |
+| **Frontend & interfaces** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · Framer Motion |
+| **Mobile** | Kotlin · Jetpack Compose · Flutter · Firebase |
+| **Backend & data** | Python · Node.js · C# · PostgreSQL · Supabase · SQL |
+| **AI & automation** | OpenAI · Claude · Gemini · n8n · faster-whisper · FFmpeg |
+| **Delivery & infrastructure** | Git · GitHub · Docker Compose · API integrations |
+| **Additional specialist tools** | MQL4 / MQL5 · cTrader / cAlgo · NinjaTrader 8 |
 
-### Selected work
+<br />
 
-**[Sunday Shine ↗](https://sundayshine.lovable.app/)**  
-A car-detailing booking experience with service selection, an owner area, cancellation and rescheduling, and reminders. Built around the everyday needs of a solo business owner.
+<p><img src="assets/delivery.svg" width="100%" alt="From understanding the requirements to designing, building, testing, shipping, and supporting the software." /></p>
 
-**[PrivateEye ↗](https://github.com/Sharique-shaikh-git/PSE-Private_Search_Engine-)**  
-A self-hosted search setup built on SearXNG, with custom branding, Docker Compose, Caddy, Valkey, and optional Tor routing.
+<br />
 
-**CryptoPartner · Noor App**  
-Mobile projects spanning trading signals and Islamic daily tools. Source code is private; project details are available through my portfolio.
+## From my public workspace
 
-### Tools I work with
+<!-- PUBLIC-WORK:START -->
+| Public project | Repository description | Last push (UTC) |
+| :--- | :--- | :--- |
+| [C-compiler-in-C](https://github.com/Sharique-shaikh-git/C-compiler-in-C) | Explore the repository for project details. | 2026-08-31 |
+| [PSE-Private&#95;Search&#95;Engine-](https://github.com/Sharique-shaikh-git/PSE-Private_Search_Engine-) | Explore the repository for project details. | 2026-08-28 |
+| [Shopo&#95;free](https://github.com/Sharique-shaikh-git/Shopo_free) | Explore the repository for project details. | 2026-08-08 |
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-202728?style=flat-square&amp;logo=typescript&amp;logoColor=BFD5C5" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-202728?style=flat-square&amp;logo=react&amp;logoColor=BFD5C5" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-202728?style=flat-square&amp;logo=nextdotjs&amp;logoColor=BFD5C5" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-202728?style=flat-square&amp;logo=nodedotjs&amp;logoColor=BFD5C5" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-202728?style=flat-square&amp;logo=python&amp;logoColor=BFD5C5" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-202728?style=flat-square&amp;logo=postgresql&amp;logoColor=BFD5C5" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-202728?style=flat-square&amp;logo=supabase&amp;logoColor=BFD5C5" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Kotlin-202728?style=flat-square&amp;logo=kotlin&amp;logoColor=BFD5C5" alt="Kotlin" />
-</p>
+<sub>Last refreshed: 2026-10-13 UTC</sub>
+<!-- PUBLIC-WORK:END -->
 
-**AI & automation:** OpenAI · Claude · Gemini · n8n · faster-whisper · FFmpeg  
-**Specialist development:** MQL4 / MQL5 · C# / cTrader / NinjaTrader · Firebase
+<sub>Automatically refreshed from my public repositories. For client work and private products, explore my portfolio.</sub>
 
-### GitHub, in numbers
-
-<p>
-  <img src="assets/github-stats.svg" width="100%" alt="Automatically generated public GitHub statistics and repository language distribution" />
-</p>
-
-<sub>Refreshed daily from GitHub's API. Public repositories only; languages reflect code bytes, not skill level. Private client and product work is outside these totals.</sub>
+<br />
 
 ---
 
-### Have a product to build or a workflow to simplify?
+### Let's build something that fits the way you work.
 
-I'm interested in **AI engineering and full-stack roles**, as well as client projects with a clear problem to solve.
+Open to **software and AI engineering roles**, **remote collaboration**, and **client projects** across web, mobile, automation, and business software.
 
-**[Explore my work →](https://shariqueshaikh.vercel.app/)** &nbsp; **[Discuss a project →](https://ss-services.vercel.app/)** &nbsp; **[Connect on LinkedIn →](https://www.linkedin.com/in/shariqueshaikh125/)**
+**[View my portfolio →](https://shariqueshaikh.vercel.app/)** &nbsp;&nbsp; **[Discuss a project with SS Services →](https://ss-services.vercel.app/)** &nbsp;&nbsp; **[Connect on LinkedIn →](https://www.linkedin.com/in/shariqueshaikh125/)**

@@ -1,0 +1,38 @@
+name: Refresh public workspace
+on:
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/update_profile.py'
+      - '.github/workflows/profile-work.yml'
+permissions:
+  contents: write
+concurrency:
+  group: profile-work
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh public workspace
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_profile.py
+      - name: Save changed section
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh public workspace'
+          git push

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="138" viewBox="0 0 1000 138" role="img" aria-labelledby="title">
+  <title id="title">Understand, design, build, test, ship, support</title>
+  <rect width="1000" height="138" rx="14" fill="#101927"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="28" y="33" fill="#96b9f8" font-size="10" letter-spacing="2">FROM THE FIRST CONVERSATION TO WHAT COMES AFTER LAUNCH.</text>
+    <path d="M28 53H972" stroke="#31405a"/>
+    <g fill="#f5f1e8" font-size="16" font-weight="700">
+      <text x="28" y="86">Understand</text><text x="189" y="86">Design</text><text x="350" y="86">Build</text>
+      <text x="511" y="86">Test</text><text x="672" y="86">Ship</text><text x="833" y="86">Support</text>
+    </g>
+    <g fill="#a6b4ca" font-size="11">
+      <text x="28" y="110">Requirements</text><text x="189" y="110">Product &amp; system</text><text x="350" y="110">Implementation</text>
+      <text x="511" y="110">Behavior &amp; reliability</text><text x="672" y="110">Deployment</text><text x="833" y="110">Iteration &amp; fixes</text>
+    </g>
+  </g>
+</svg>

@@ -1,23 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
-  <title id="title">Sharique Shaikh — AI and Full-Stack Engineer</title>
-  <desc id="desc">From an idea to software people use. Applied AI, full-stack products and business automation.</desc>
-  <rect width="1000" height="300" rx="16" fill="#172122"/>
-  <path d="M0 282H1000" stroke="#bfd5c5" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410" role="img" aria-labelledby="title desc">
+  <title id="title">Sharique Shaikh — Software and AI Engineer</title>
+  <desc id="desc">Building the software behind better businesses. Web, mobile, AI, automation, and business systems.</desc>
+  <rect width="1000" height="410" rx="16" fill="#101927"/>
+  <path d="M718 0V410" stroke="#2d3a50"/>
   <g font-family="DejaVu Sans, Arial, sans-serif">
-    <text x="44" y="49" font-size="12" letter-spacing="3" fill="#bfd5c5">ENGINEERING WITH PURPOSE</text>
-    <text x="42" y="113" font-size="48" font-weight="700" letter-spacing="-2" fill="#f4f1e9">Sharique Shaikh.</text>
-    <text x="44" y="150" font-size="21" fill="#bfd5c5">AI &amp; Full-Stack Engineer</text>
-    <text x="44" y="199" font-size="16" fill="#d4dcda">From an idea to software people use.</text>
-    <text x="44" y="247" font-size="11" letter-spacing="2" fill="#a0b4ac">APPLIED AI  /  PRODUCTS  /  AUTOMATION</text>
+    <text x="42" y="43" font-size="11" letter-spacing="2.5" fill="#96b9f8">SHARIQUE SHAIKH / SOFTWARE &amp; AI ENGINEER</text>
+    <text x="39" y="119" font-size="56" font-weight="700" letter-spacing="-2" fill="#f5f1e8">Building software.</text>
+    <text x="39" y="181" font-size="56" font-weight="700" letter-spacing="-2" fill="#f5f1e8">Connecting</text>
+    <text x="39" y="243" font-size="56" font-weight="700" letter-spacing="-2" fill="#96b9f8">businesses.</text>
+    <text x="42" y="298" font-size="17" fill="#c7cfdb">From customer-facing products to the systems behind them.</text>
+    <text x="42" y="371" font-size="11" letter-spacing="1.5" fill="#a6b4ca">WEB / MOBILE / AI / AUTOMATION / BUSINESS SYSTEMS</text>
   </g>
-  <g fill="none" stroke="#3b5250">
-    <rect x="749" y="51" width="202" height="202" rx="27"/>
-    <rect x="769" y="71" width="162" height="162" rx="20"/>
-    <path d="M699 101H769M931 203H981M850 21V71M850 233V275"/>
+  <g stroke="#31405a" fill="none">
+    <path d="M758 96H958M758 162H958M758 228H958M758 294H958"/>
+    <path d="M776 64V331M842 64V331M908 64V331"/>
   </g>
-  <g fill="#bfd5c5">
-    <circle cx="699" cy="101" r="4"/><circle cx="981" cy="203" r="4"/>
-    <circle cx="850" cy="21" r="4"/><circle cx="850" cy="275" r="4"/>
-    <text x="789" y="176" font-family="DejaVu Sans, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-5">SS</text>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <rect x="760" y="65" width="95" height="42" rx="8" fill="#f5f1e8"/>
+    <text x="807" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="#101927">PRODUCT</text>
+    <rect x="849" y="139" width="107" height="42" rx="8" fill="#234983"/>
+    <text x="902" y="166" text-anchor="middle" font-size="13" font-weight="700" fill="#f5f1e8">PLATFORM</text>
+    <rect x="760" y="211" width="101" height="42" rx="8" fill="#33435c"/>
+    <text x="810" y="238" text-anchor="middle" font-size="13" font-weight="700" fill="#f5f1e8">WORKFLOW</text>
+    <rect x="849" y="282" width="107" height="42" rx="8" fill="#96b9f8"/>
+    <text x="902" y="309" text-anchor="middle" font-size="13" font-weight="700" fill="#101927">BUSINESS</text>
+    <text x="760" y="372" font-size="11" letter-spacing="2" fill="#a6b4ca">BUILT TO WORK TOGETHER.</text>
   </g>
 </svg>
