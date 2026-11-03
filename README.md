@@ -111,11 +111,11 @@ Mobile projects covering Islamic daily tools and trading signals, including pray
 <!-- PUBLIC-WORK:START -->
 | Public project | Repository description | Last push (UTC) |
 | :--- | :--- | :--- |
-| [C-compiler-in-C](https://github.com/Sharique-shaikh-git/C-compiler-in-C) | Explore the repository for project details. | 2026-08-31 |
-| [PSE-Private&#95;Search&#95;Engine-](https://github.com/Sharique-shaikh-git/PSE-Private_Search_Engine-) | Explore the repository for project details. | 2026-08-28 |
+| [C-compiler-in-C](https://github.com/Sharique-shaikh-git/C-compiler-in-C) | A low-level C compiler designed from scratch, optimizing recursive descent parsing and AST generation. | 2026-08-31 |
+| [PSE-Private&#95;Search&#95;Engine-](https://github.com/Sharique-shaikh-git/PSE-Private_Search_Engine-) | Self-hosted privacy-first search infrastructure built with Docker Compose, SearXNG, Caddy, and Valkey cache l… | 2026-08-28 |
 | [Shopo&#95;free](https://github.com/Sharique-shaikh-git/Shopo_free) | Explore the repository for project details. | 2026-08-08 |
 
-<sub>Last refreshed: 2026-11-02 UTC</sub>
+<sub>Last refreshed: 2026-11-03 UTC</sub>
 <!-- PUBLIC-WORK:END -->
 
 <sub>Automatically refreshed from my public repositories. For client work and private products, explore my portfolio.</sub>
